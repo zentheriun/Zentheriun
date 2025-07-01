@@ -1,7 +1,7 @@
 ## ¡Hola, soy Zentheriun! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/img/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg" alt="Banner Zentheriun" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/img/Dise%C3%B1o%202.jpg" alt="Banner Zentheriun" width="100%"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/img/Boyero%20de%20Berna.png"
