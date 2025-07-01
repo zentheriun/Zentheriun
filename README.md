@@ -1,5 +1,9 @@
 ## ¡Hola, soy Zentheriun! 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/img/Banner.jpeg" alt="Banner Zentheriun" width="100%"/>
+</p>
+
 <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/img/Boyero%20de%20Berna.png"
      alt="Mascota Zentheriun"
      align="right"
