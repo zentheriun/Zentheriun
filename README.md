@@ -1,37 +1,21 @@
-<h1 align="center">
-  Hi <span class="wave">👋</span>, I'm 
-  <span style="
-    background: linear-gradient(270deg, #ff6ec4, #7873f5, #47caff);
-    background-size: 600% 600%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient 6s ease infinite;
-    font-weight: bold;">
-    Zentheriun
-  </span>
-</h1>
+.zentheriun-animated {
+    font-size: 80px;
+    font-weight: 900;
+    font-family: 'Arial Black', Arial, sans-serif;
+    letter-spacing: 2px;
+    animation: rainbowCycle 10.8s infinite linear;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
 
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+@keyframes rainbowCycle {
+    0% { color: #ff0000; }
+    11.11% { color: #ff8000; }
+    22.22% { color: #ffff00; }
+    33.33% { color: #00ff00; }
+    44.44% { color: #0000ff; }
+    55.55% { color: #00ffff; }
+    66.66% { color: #8000ff; }
+    77.77% { color: #ff00ff; }
+    88.88% { color: #ff69b4; }
+    100% { color: #ff0000; }
 }
-.wave {
-  animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-@keyframes wave-animation {
-  0% { transform: rotate(0.0deg) }
-  10% { transform: rotate(14.0deg) }
-  20% { transform: rotate(-8.0deg) }
-  30% { transform: rotate(14.0deg) }
-  40% { transform: rotate(-4.0deg) }
-  50% { transform: rotate(10.0deg) }
-  60% { transform: rotate(0.0deg) }
-  100% { transform: rotate(0.0deg) }
-}
-</style>
