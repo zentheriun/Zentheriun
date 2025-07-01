@@ -1,5 +1,3 @@
-## ¡Hola, soy Zentheriun! 👋
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/img/Dise%C3%B1o%202.jpg" alt="Banner Zentheriun" width="100%"/>
 </p>
