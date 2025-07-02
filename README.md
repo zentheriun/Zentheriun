@@ -1,7 +1,7 @@
 <!-- 🔗 Elementos alineados a la derecha (parte superior) -->
 <div align="right">
-  <!-- 🎖 GIF Gold que redirige al inicio -->
-  <a href="#inicio">
+  <!-- 🎖 GIF Gold que redirige al README Golden -->
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Golden" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Gold%20GitHub.gif" 
       alt="Gold GitHub" 
