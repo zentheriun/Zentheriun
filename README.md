@@ -1,5 +1,6 @@
-<!-- 🔗 GIF Gold alineado a la derecha que redirige al inicio -->
+<!-- 🔗 Elementos alineados a la derecha (parte superior) -->
 <div align="right">
+  <!-- 🎖 GIF Gold que redirige al inicio -->
   <a href="#inicio">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Gold%20GitHub.gif" 
@@ -26,4 +27,12 @@
       alt="Banner 2" 
       width="100%">
   </a>
+</div>
+
+<!-- 📥 Imagen decorativa final alineada a la derecha (abajo de todo) -->
+<div align="right" style="margin-top: 20px;">
+  <img 
+    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.IMGs/4d781f6616db4f17d812957a887d4d9c-removebg-preview.png" 
+    alt="Decoración final" 
+    width="150">
 </div>
