@@ -27,12 +27,11 @@
       alt="Banner 2" 
       width="100%">
   </a>
-</div>
-
-<!-- 📥 Imágenes decorativas finales alineadas a la derecha -->
-<div align="right" style="margin-top: 20px;">
-  <img 
-    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Who%20Am%20I.gif" 
-    alt="Who Am I" 
-    width="150">
+  <br>
+  <a href="#inicio">
+    <img 
+      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Who%20Am%20I.gif" 
+      alt="Who Am I Banner" 
+      width="100%">
+  </a>
 </div>
