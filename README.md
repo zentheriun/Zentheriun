@@ -1,16 +1,20 @@
-<!-- GIF GOLD alineado a la derecha con redirección -->
+<!-- GIF Gold arriba a la derecha con enlace a #inicio -->
 <div align="right">
   <a href="#inicio">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Gold%20GitHub.gif" width="150">
   </a>
 </div>
 
-<!-- Ancla para redirección -->
+<!-- Ancla de inicio -->
 <a name="inicio"></a>
 
-<!-- Banners con HTML para evitar descarga al hacer clic -->
+<!-- Banners ahora también envueltos en <a> para evitar descarga -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2001.gif" width="100%">
+  <a href="#inicio">
+    <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2001.gif" width="100%">
+  </a>
   <br>
-  <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2002.gif" width="100%">
+  <a href="#inicio">
+    <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2002.gif" width="100%">
+  </a>
 </div>
