@@ -32,12 +32,7 @@
 <!-- 📥 Imágenes decorativas finales alineadas a la derecha -->
 <div align="right" style="margin-top: 20px;">
   <img 
-    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.IMGs/4d781f6616db4f17d812957a887d4d9c-removebg-preview.png" 
-    alt="Decoración final 1" 
-    width="150">
-  <br>
-  <img 
-    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.IMGs/714fe3edc4a54572e27399799a6b1e51-removebg-preview.png" 
-    alt="Decoración final 2" 
+    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Who%20Am%20I.gif" 
+    alt="Who Am I" 
     width="150">
 </div>
