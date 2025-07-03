@@ -22,11 +22,11 @@
       width="100%">
   </a>
   <br>
-  <!-- ✅ Banner 2 Remaster (protegido como Banner 1) -->
+  <!-- ✅ Banner 2 Remaker (nuevo) -->
   <a href="#home">
     <img 
-      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remaster.gif" 
-      alt="Banner 2 Remaster" 
+      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remaker.gif" 
+      alt="Banner 2 Remaker" 
       width="100%">
   </a>
   <br>
