@@ -21,7 +21,7 @@
       width="100%">
   </a>
   <br>
-  <a href="#home">
+  <a href="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Animation%202%20Remake.gif" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2002.gif" 
       alt="Banner 2" 
