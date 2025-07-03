@@ -21,10 +21,10 @@
       width="100%">
   </a>
   <br>
-  <a href="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Animation%202%20Remake.gif" target="_blank">
+  <a href="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remake.gif" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2002.gif" 
-      alt="Banner 2" 
+      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remake.gif" 
+      alt="Banner 2 Remake" 
       width="100%">
   </a>
   <br>
