@@ -22,11 +22,11 @@
       width="100%">
   </a>
   <br>
-  <!-- ✅ Banner 2 Remaker (nuevo) -->
+  <!-- 🔁 Banner 2 Remake (nuevo gif agregado) -->
   <a href="#home">
     <img 
-      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remaker.gif" 
-      alt="Banner 2 Remaker" 
+      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remake.gif" 
+      alt="Banner 2 Remake" 
       width="100%">
   </a>
   <br>
