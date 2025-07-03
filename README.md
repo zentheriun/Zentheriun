@@ -14,6 +14,7 @@
 
 <!-- 🎌 Main banners protected to prevent downloads -->
 <div align="center">
+  <!-- Banner 1 -->
   <a href="#home">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2001.gif" 
@@ -21,14 +22,15 @@
       width="100%">
   </a>
   <br>
-  <!-- ✅ Updated Banner 2 -->
-  <a href="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remaster.gif" target="_blank">
+  <!-- ✅ Banner 2 Remaster (protegido como Banner 1) -->
+  <a href="#home">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remaster.gif" 
       alt="Banner 2 Remaster" 
       width="100%">
   </a>
   <br>
+  <!-- Who Am I Banner -->
   <a href="#home">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Who%20Am%20I.gif" 
