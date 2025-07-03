@@ -21,10 +21,11 @@
       width="100%">
   </a>
   <br>
-  <a href="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remake.gif" target="_blank">
+  <!-- ✅ Updated Banner 2 -->
+  <a href="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remaster.gif" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remake.gif" 
-      alt="Banner 2 Remake" 
+      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%202%20Remaster.gif" 
+      alt="Banner 2 Remaster" 
       width="100%">
   </a>
   <br>
