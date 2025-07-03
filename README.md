@@ -14,11 +14,11 @@
 
 <!-- 🎌 Main banners protected to prevent downloads -->
 <div align="center">
-  <!-- Banner 1 -->
+  <!-- 🔁 Banner 1 Remake (nuevo gif agregado) -->
   <a href="#home">
     <img 
-      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%2001.gif" 
-      alt="Banner 1" 
+      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Animation%201%20Remake.gif" 
+      alt="Banner 1 Remake" 
       width="100%">
   </a>
   <br>
