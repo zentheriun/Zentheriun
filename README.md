@@ -45,7 +45,7 @@
 
   <!-- ⚡ MACRO-INITIATIVE DESIGNATION PROTOCOL -->
   <img 
-    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/PROJECTS.gif" 
+    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/PROJECTS.gif" 
     alt="MACRO_INITIATIVE_DESIGNATION" 
     width="350">
 
