@@ -54,7 +54,7 @@
   <img 
     src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20A.gif" 
     alt="CLASS A" 
-    width="120">
+    width="150">
 
   <br><br>
   <a href="https://zentheriun.github.io/One-Zenther/" target="_blank">
@@ -70,12 +70,12 @@
   <!-- Clase B -->
   <br><br>
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
-    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" width="100"/>
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" width="150"/>
   </a>
 
   <!-- Clase C -->
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
-    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" width="100"/>
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" width="150"/>
   </a>
 
 </div>
