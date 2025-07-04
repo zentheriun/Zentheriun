@@ -51,7 +51,7 @@
     align="left">
   <!-- 🎯 TECHNOLOGICAL ARSENAL DISPLAY - QUANTUM TECH STACK -->
   <img 
-    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Tecnology.png" 
+    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Lenguajes.png" 
     alt="TECHNOLOGICAL_QUANTUM_ARSENAL" 
     width="290"
     align="right"
