@@ -38,3 +38,45 @@
       width="100%">
   </a>
 </div>
+
+<!-- 🎯 PROJECTS SECTION -->
+<br>
+<div align="left">
+
+  <!-- Título -->
+  <img 
+    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/PROJECTS.gif" 
+    alt="PROJECTS TITLE" 
+    width="250">
+  
+  <!-- Clase A -->
+  <h3>
+    <span style="color:#00FF7F;">🟢 CLASS A</span>
+  </h3>
+  <a href="https://zentheriun.github.io/One-Zenther/" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20One%20-%20Class%20A.gif" width="100"/>
+  </a>
+  <a href="https://zentheriun.github.io/Two-Zenther/" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Two%20-%20Class%20A.gif" width="100"/>
+  </a>
+  <a href="https://zentheriun.github.io/Three-Zenther/" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Three%20-%20Class%20A.gif" width="100"/>
+  </a>
+
+  <!-- Clase B -->
+  <h3>
+    <span style="color:#FFD700;">🟡 CLASS B</span>
+  </h3>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" width="100"/>
+  </a>
+
+  <!-- Clase C -->
+  <h3>
+    <span style="color:#00BFFF;">🔵 CLASS C</span>
+  </h3>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" width="100"/>
+  </a>
+
+</div>
