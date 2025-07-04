@@ -39,16 +39,25 @@
   </a>
 </div>
 
-<!-- 🎯 STRATEGIC IMPLEMENTATION HIERARCHICAL FRAMEWORK DEPLOYMENT -->
 <br>
-<div align="left">
 
+<!-- 🎯 STRATEGIC IMPLEMENTATION HIERARCHICAL FRAMEWORK DEPLOYMENT -->
+<div align="center">
   <!-- ⚡ MACRO-INITIATIVE DESIGNATION PROTOCOL -->
   <img 
-  src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/PROJECTS.gif" 
-  alt="MACRO_INITIATIVE_DESIGNATION" 
-  width="350">
+    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/PROJECTS.gif" 
+    alt="MACRO_INITIATIVE_DESIGNATION" 
+    width="350">
+  <!-- 🎯 TECHNOLOGICAL ARSENAL DISPLAY - QUANTUM TECH STACK -->
+  <img 
+    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Tecnology.png" 
+    alt="TECHNOLOGICAL_QUANTUM_ARSENAL" 
+    width="350">
+</div>
 
+<br>
+
+<div align="left">
   <!-- 🏆 TIER-ALPHA CLASSIFICATION MATRIX -->
   <br>
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
@@ -77,6 +86,7 @@
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
   </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
 
   <!-- 🥈 TIER-BETA CLASSIFICATION MATRIX -->
   <br><br>
@@ -92,6 +102,7 @@
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
   </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
 
   <!-- 🥉 TIER-GAMMA CLASSIFICATION MATRIX -->
   <br><br>
@@ -107,4 +118,5 @@
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Youtube.gif" width="100" />
   </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Google.gif" width="100"/>
+  </a>
 </div>
