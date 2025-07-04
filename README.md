@@ -53,7 +53,7 @@
   <img 
     src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Tecnology.png" 
     alt="TECHNOLOGICAL_QUANTUM_ARSENAL" 
-    width="250"
+    width="260"
     align="right">
 </div>
 
@@ -61,15 +61,15 @@
 
 <div align="left">
   <!-- 🏆 TIER-ALPHA CLASSIFICATION MATRIX -->
-  <br><br><br>
-  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
-    <img 
-      src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20A.gif" 
-      alt="TIER_ALPHA_CLASSIFICATION" 
-      width="280">
-  </a>
-
-  <br><br>
+  <br><br><br><br><br><br>
+  <div style="margin-bottom: 5px;">
+    <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+      <img 
+        src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20A.gif" 
+        alt="TIER_ALPHA_CLASSIFICATION" 
+        width="280">
+    </a>
+  </div>
   <!-- 🚀 ALPHA-TIER OPERATIONAL DEPLOYMENT SEQUENCE -->
   <a href="https://zentheriun.github.io/One-Zenther/" target="_blank">
     <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20One%20-%20Class%20A.gif" width="100"/>
@@ -91,14 +91,14 @@
   </a>
 
   <!-- 🥈 TIER-BETA CLASSIFICATION MATRIX -->
-  <br><br>
-  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
-    <img 
-      src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" 
-      width="280">
-  </a>
-
-  <br><br>
+  <br><br><br><br><br>
+  <div style="margin-bottom: 5px;">
+    <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+      <img 
+        src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" 
+        width="280">
+    </a>
+  </div>
   <!-- 🔐 BETA-TIER ENCRYPTED VAULT SYSTEM - OCTAGONAL SECURITY GRID -->
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
@@ -107,14 +107,14 @@
   </a>
 
   <!-- 🥉 TIER-GAMMA CLASSIFICATION MATRIX -->
-  <br><br>
-  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
-    <img 
-      src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" 
-      width="280">
-  </a>
-
-  <br><br>
+  <br><br><br><br><br>
+  <div style="margin-bottom: 5px;">
+    <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+      <img 
+        src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" 
+        width="280">
+    </a>
+  </div>
   <!-- 🛡️ GAMMA-TIER FORTRESS PROTOCOL - OCTAGONAL DEFENSIVE PERIMETER -->
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Youtube.gif" width="100" />
