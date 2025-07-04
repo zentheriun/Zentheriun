@@ -43,18 +43,20 @@
 <br>
 <div align="left">
 
-  <!-- Título de Projects -->
+  <!-- Título de Projects (más grande) -->
   <img 
     src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/PROJECTS.gif" 
     alt="PROJECTS TITLE" 
-    width="250">
+    width="350">
 
-  <!-- Clase A -->
+  <!-- Clase A (con enlace y tamaño grande) -->
   <br>
-  <img 
-    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20A.gif" 
-    alt="CLASS A" 
-    width="150">
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img 
+      src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20A.gif" 
+      alt="CLASS A" 
+      width="220">
+  </a>
 
   <br><br>
   <a href="https://zentheriun.github.io/One-Zenther/" target="_blank">
@@ -70,12 +72,16 @@
   <!-- Clase B -->
   <br><br>
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
-    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" width="150"/>
+    <img 
+      src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" 
+      width="220">
   </a>
 
   <!-- Clase C -->
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
-    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" width="150"/>
+    <img 
+      src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" 
+      width="220">
   </a>
 
 </div>
