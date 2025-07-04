@@ -45,9 +45,9 @@
 
   <!-- ⚡ MACRO-INITIATIVE DESIGNATION PROTOCOL -->
   <img 
-    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/PROJECTS.gif" 
-    alt="MACRO_INITIATIVE_DESIGNATION" 
-    width="350">
+  src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/PROJECTS.gif" 
+  alt="MACRO_INITIATIVE_DESIGNATION" 
+  width="350">
 
   <!-- 🏆 TIER-ALPHA CLASSIFICATION MATRIX -->
   <br>
