@@ -92,7 +92,7 @@
   </a>
 
   <!-- 🥈 TIER-BETA CLASSIFICATION MATRIX -->
-  <br><br><br><br><br>
+  <br><br><br><br>
   <div style="margin-bottom: 5px;">
     <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
       <img 
@@ -108,7 +108,7 @@
   </a>
 
   <!-- 🥉 TIER-GAMMA CLASSIFICATION MATRIX -->
-  <br><br><br><br><br>
+  <br><br><br><br>
   <div style="margin-bottom: 5px;">
     <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
       <img 
