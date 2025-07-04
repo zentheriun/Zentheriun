@@ -62,7 +62,7 @@
 
 <div align="left">
   <!-- 🏆 TIER-ALPHA CLASSIFICATION MATRIX -->
-  <br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
   <div style="margin-bottom: 5px;">
     <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
       <img 
