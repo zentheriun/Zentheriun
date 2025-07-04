@@ -49,7 +49,7 @@
     alt="PROJECTS TITLE" 
     width="350">
 
-  <!-- Clase A (con enlace y tamaño grande) -->
+  <!-- Clase A -->
   <br>
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
     <img 
@@ -59,6 +59,7 @@
   </a>
 
   <br><br>
+  <!-- Proyectos activos Class A -->
   <a href="https://zentheriun.github.io/One-Zenther/" target="_blank">
     <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20One%20-%20Class%20A.gif" width="100"/>
   </a>
@@ -69,6 +70,23 @@
     <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Three%20-%20Class%20A.gif" width="100"/>
   </a>
 
+  <!-- Blocked Projects Class A (5) -->
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+
   <!-- Clase B -->
   <br><br>
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
@@ -77,11 +95,66 @@
       width="220">
   </a>
 
+  <br><br>
+  <!-- Blocked Projects Class B (8) -->
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+
   <!-- Clase C -->
+  <br><br>
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
     <img 
       src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" 
       width="220">
+  </a>
+
+  <br><br>
+  <!-- Blocked Projects Class C (8) -->
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
+  </a>
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
+    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Blocked.gif" width="100"/>
   </a>
 
 </div>
