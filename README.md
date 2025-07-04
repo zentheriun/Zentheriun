@@ -122,7 +122,7 @@
   <br><br>
   <!-- 🛡️ GAMMA-TIER FORTRESS PROTOCOL - OCTAGONAL DEFENSIVE PERIMETER -->
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
-    <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
+    <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Youtube.gif" width="100" />
   </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
   </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
