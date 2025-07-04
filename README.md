@@ -53,7 +53,7 @@
   <img 
     src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Tecnology.png" 
     alt="TECHNOLOGICAL_QUANTUM_ARSENAL" 
-    width="260"
+    width="350"
     align="right">
 </div>
 
