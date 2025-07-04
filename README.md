@@ -42,29 +42,31 @@
 <br>
 
 <!-- 🎯 STRATEGIC IMPLEMENTATION HIERARCHICAL FRAMEWORK DEPLOYMENT -->
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <!-- ⚡ MACRO-INITIATIVE DESIGNATION PROTOCOL -->
   <img 
     src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/PROJECTS.gif" 
     alt="MACRO_INITIATIVE_DESIGNATION" 
-    width="350">
+    width="500"
+    align="left">
   <!-- 🎯 TECHNOLOGICAL ARSENAL DISPLAY - QUANTUM TECH STACK -->
   <img 
     src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Tecnology.png" 
     alt="TECHNOLOGICAL_QUANTUM_ARSENAL" 
-    width="350">
+    width="250"
+    align="right">
 </div>
 
 <br>
 
 <div align="left">
   <!-- 🏆 TIER-ALPHA CLASSIFICATION MATRIX -->
-  <br>
+  <br><br><br>
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
     <img 
       src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20A.gif" 
       alt="TIER_ALPHA_CLASSIFICATION" 
-      width="220">
+      width="280">
   </a>
 
   <br><br>
@@ -93,7 +95,7 @@
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
     <img 
       src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20B.gif" 
-      width="220">
+      width="280">
   </a>
 
   <br><br>
@@ -109,7 +111,7 @@
   <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Classes" target="_blank">
     <img 
       src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Class%20C.gif" 
-      width="220">
+      width="280">
   </a>
 
   <br><br>
