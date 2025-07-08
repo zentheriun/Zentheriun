@@ -117,7 +117,7 @@
     </a>
   </div>
   <!-- 🛡️ GAMMA-TIER FORTRESS PROTOCOL - OCTAGONAL DEFENSIVE PERIMETER -->
-  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
+  <a href="https://zentuber.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Youtube.gif" width="100" />
   </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
     <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Google.gif" width="100"/>
