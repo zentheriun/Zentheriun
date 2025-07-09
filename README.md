@@ -82,14 +82,7 @@
     <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Three%20-%20Class%20A.gif" width="100"/>
   </a>
 
-  <!-- 🔒 ALPHA-TIER RESTRICTED ACCESS MODULES - PENTAGONAL LOCKDOWN -->
-  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
-    <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
-  </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
-    <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
-  </a><a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Blocked" target="_blank">
-    <img src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Blocked.gif" width="100"/>
-  </a>
+
 
   <!-- 🥈 TIER-BETA CLASSIFICATION MATRIX -->
   <br><br>
