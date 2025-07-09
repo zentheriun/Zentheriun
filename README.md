@@ -71,16 +71,17 @@
         width="280">
     </a>
   </div>
-  <!-- 🚀 ALPHA-TIER OPERATIONAL DEPLOYMENT SEQUENCE -->
-  <a href="https://zentheriun.github.io/One-Zenther/" target="_blank">
-    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20One%20-%20Class%20A.gif" width="100"/>
-  </a>
-  <a href="https://zentheriun.github.io/Two-Zenther/" target="_blank">
-    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Two%20-%20Class%20A.gif" width="100"/>
-  </a>
-  <a href="https://zentheriun.github.io/Three-Zenther/" target="_blank">
-    <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Three%20-%20Class%20A.gif" width="100"/>
-  </a>
+<!-- 🚀 ALPHA-TIER OPERATIONAL DEPLOYMENT SEQUENCE -->
+<a href="https://github.com/Zentheriun/One-Zenther" target="_blank">
+  <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20One%20-%20Class%20A.gif" width="100"/>
+</a>
+<a href="https://zentheriun.github.io/Two-Zenther/" target="_blank">
+  <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Two%20-%20Class%20A.gif" width="100"/>
+</a>
+<a href="https://zentheriun.github.io/Three-Zenther/" target="_blank">
+  <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Three%20-%20Class%20A.gif" width="100"/>
+</a>
+
 
 
 
