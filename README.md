@@ -1,7 +1,7 @@
 <!-- ⚡ QUANTUM ALIGNMENT MATRIX - PHASE DELTA-EPSILON CONFIGURATION -->
 <div align="right">
   <!-- 🌟 AURUM HYPERLINK NEXUS - CONVERGENCE PROTOCOL ACTIVATED -->
-  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Golden" target="_blank">
+  <a href="https://github.com/Zentheriun/ZENTHER-II" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Gold%20GitHub.gif" 
       alt="CRYPTOGRAPHIC_AURUM_INTERFACE" 
@@ -44,11 +44,13 @@
 <!-- 🎯 STRATEGIC IMPLEMENTATION HIERARCHICAL FRAMEWORK DEPLOYMENT -->
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <!-- ⚡ MACRO-INITIATIVE DESIGNATION PROTOCOL -->
-  <img 
-    src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/PROJECTS.gif" 
-    alt="MACRO_INITIATIVE_DESIGNATION" 
-    width="500"
-    align="left">
+  <a href="https://github.com/Zentheriun/ZENTHER-III" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/PROJECTS.gif" 
+      alt="MACRO_INITIATIVE_DESIGNATION" 
+      width="500"
+      align="left">
+  </a>
   <!-- 🎯 TECHNOLOGICAL ARSENAL DISPLAY - QUANTUM TECH STACK -->
   <img 
     src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Lenguajes.png" 
@@ -81,9 +83,6 @@
 <a href="https://zentheriun.github.io/Three-Zenther/" target="_blank">
   <img src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.GIFs/Project%20Three%20-%20Class%20A.gif" width="100"/>
 </a>
-
-
-
 
   <!-- 🥈 TIER-BETA CLASSIFICATION MATRIX -->
   <br><br>
