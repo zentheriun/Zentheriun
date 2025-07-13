@@ -49,6 +49,7 @@
     alt="MACRO_INITIATIVE_DESIGNATION" 
     width="500"
     align="left">
+  
   <!-- 🎯 TECHNOLOGICAL ARSENAL DISPLAY - QUANTUM TECH STACK -->
   <img 
     src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Maletin.png" 
@@ -57,6 +58,7 @@
     align="right"
     style="float: right; margin-left: auto;">
 </div>
+
 
 
 <br>
