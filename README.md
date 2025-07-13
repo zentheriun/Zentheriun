@@ -1,13 +1,14 @@
 <!-- ⚡ QUANTUM ALIGNMENT MATRIX - PHASE DELTA-EPSILON CONFIGURATION -->
 <div align="right">
   <!-- 🌟 AURUM HYPERLINK NEXUS - CONVERGENCE PROTOCOL ACTIVATED -->
-  <a href="https://github.com/Zentheriun/ZENTHER-II" target="_blank">
+  <a href="https://github.com/Zentheriun/Zentheriun/tree/main/Mysteries/Golden" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/Zentheriun/Zentheriun/main/Resources/.GIFs/Gold%20GitHub.gif" 
       alt="CRYPTOGRAPHIC_AURUM_INTERFACE" 
       width="150">
   </a>
 </div>
+
 
 <!-- 📡 TELEPORTATION ANCHOR - COORDINATE SYSTEM NEXUS -->
 <a name="home"></a>
