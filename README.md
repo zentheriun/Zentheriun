@@ -51,12 +51,13 @@
     align="left">
   <!-- 🎯 TECHNOLOGICAL ARSENAL DISPLAY - QUANTUM TECH STACK -->
   <img 
-    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Lenguajes.png" 
+    src="https://github.com/Zentheriun/Zentheriun/blob/main/Resources/.IMGs/Maletin.png" 
     alt="TECHNOLOGICAL_QUANTUM_ARSENAL" 
     width="290"
     align="right"
     style="float: right; margin-left: auto;">
 </div>
+
 
 <br>
 
